@@ -22,8 +22,8 @@ Clone the repository and install the dependencies:
 
 The method supports the following hyperspectral datasets:
 
-- **Pavia University **: 103 bands, 9 classes
-- **Pavia Center **: 102 bands, 9 classes  
+- **Pavia University**: 103 bands, 9 classes
+- **Pavia Center**: 102 bands, 9 classes  
 - **Houston 2013**: 48 bands, 7 classes
 - **Houston 2018**: 48 bands, 7 classes
 
