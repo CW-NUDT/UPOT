@@ -1,0 +1,54 @@
+{
+    "PaviaU_7gt": {
+        "path": "Pavia",
+        "file_name": "paviaU.mat",
+        "mat_name": "ori_data",
+        "gt_file_name": "paviaU_7gt.mat",
+        "gt_mat_name": "map",
+        "bands_num": 102,
+        "norm": false,
+        "type": null,
+        "url": [],
+        "image_height": 610,
+        "image_width": 340
+    },
+    "PaviaC_OS": {
+        "path": "Pavia",
+        "file_name": "paviaC.mat",
+        "mat_name": "ori_data",
+        "gt_file_name": "paviaC_OS_gt.mat",
+        "gt_mat_name": "map",
+        "bands_num": 102,
+        "norm": false,
+        "type": null,
+        "url": [],
+        "image_height": 1096,
+        "image_width": 715
+    },
+    "Houston13_7gt": {
+        "path": "Houston",
+        "file_name": "Houston13.mat",
+        "mat_name": "ori_data",
+        "gt_file_name": "Houston13_7gt.mat",
+        "gt_mat_name": "map",
+        "bands_num": 48,
+        "norm": false,
+        "type": null,
+        "url": [],
+        "image_height": 210,
+        "image_width": 954
+    },
+    "Houston18_7gt": {
+        "path": "Houston",
+        "file_name": "Houston18.mat",
+        "mat_name": "ori_data",
+        "gt_file_name": "Houston18_7gt.mat",
+        "gt_mat_name": "map",
+        "bands_num": 48,
+        "norm": false,
+        "type": null,
+        "url": [],
+        "image_height": 210,
+        "image_width": 954
+    }
+}
